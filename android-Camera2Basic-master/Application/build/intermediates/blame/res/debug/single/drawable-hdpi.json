@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\dev\\app\\Camera2\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_info.png",
+        "source": "E:\\dev\\app\\Camera2\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\dev\\app\\Camera2\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\dev\\app\\Camera2\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\dev\\app\\Camera2\\android-Camera2Basic-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "E:\\dev\\app\\Camera2\\android-Camera2Basic-master\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    }
+]
